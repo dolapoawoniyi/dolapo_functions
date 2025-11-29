@@ -1,3 +1,4 @@
+# This is an update for pull request
 # Task 1: Simple Greeting Function
 
 def greet_user():
